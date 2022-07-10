@@ -90,8 +90,9 @@ th {
     text-decoration: underline;
 }
 
-#announce {
+header {
     background: gray;
+    text-transform: uppercase;
 }
 
 #location {
@@ -104,4 +105,14 @@ th {
     text-align: center;
     padding: 16px;
     margin-right: 35px;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(74, 150, 74);
+    padding: 15px;
+}
+
+footer p {
+    color: white;
 }
