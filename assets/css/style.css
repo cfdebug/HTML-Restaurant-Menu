@@ -85,3 +85,23 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+#current {
+    text-decoration: underline;
+}
+
+#announce {
+    background: gray;
+}
+
+#location {
+    list-style-type: none;
+}
+
+
+#location li {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-right: 35px;
+}
